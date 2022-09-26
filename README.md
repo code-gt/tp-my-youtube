@@ -5,10 +5,10 @@ L'objectif de cet exercice est de créer ton propre Youtube, tu es libres de con
 Certaines contraintes sont à respecter :
 
 1) Crée un index.html et commence à écrire du code
-  - Pour tester que ton code fonctionne bien met un <h1> avec "hello world".
+  - Pour tester que ton code fonctionne bien met un h1 avec "hello world".
 
 2) Crée un style.css
-  - Pour tester ton style essaye de mettre le <h1> en rouge.
+  - Pour tester ton style essaye de mettre le h1 en rouge.
   
 3) Refère toi à la capture d'écran ci-dessous pour créer ta page (Conseil : utilise Bootstrap pour t'aider à construire tes éléments)
   ![screencapture-127-0-0-1-5500-index-html-2022-09-07-15_52_59](https://user-images.githubusercontent.com/77976552/192245733-ff4b7ad6-e9d8-47a1-9de7-891396749ef5.png)
