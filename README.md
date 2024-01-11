@@ -33,4 +33,7 @@ RECUPERATION DES VIDEOS YOUTUBE (<Iframe>) :
  - Clique sur "intégrer <>"
  - Sélectionne et copie le code <iframe>...</iframe>
  - Colle le code dans ton fichier index.html là où tu veux l'afficher
+
+4) Crée un bouton Dark mode dans la Navbar
+  - Construis le CSS et le JS pour basculer la page en mode sombre (fond noir, textes et logos en blanc) au clic sur le bouton
     
