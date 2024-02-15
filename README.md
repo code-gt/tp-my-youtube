@@ -9,6 +9,7 @@ Certaines contraintes sont à respecter :
 
 2) Crée un style.css
   - Pour tester ton style essaye de mettre le h1 en rouge.
+  - Tu devras importer une font depuis Google Fonts et l'utiliser sur ta page
   
 3) Refère-toi à la capture d'écran ci-dessous pour créer ta page (Conseil : utilise Bootstrap pour t'aider à construire tes éléments)
   ![screencapture-127-0-0-1-5500-index-html-2022-09-07-15_52_59](https://user-images.githubusercontent.com/77976552/192245733-ff4b7ad6-e9d8-47a1-9de7-891396749ef5.png)
