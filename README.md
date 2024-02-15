@@ -9,7 +9,7 @@ Certaines contraintes sont à respecter :
 
 2) Crée un style.css
   - Pour tester ton style essaye de mettre le h1 en rouge.
-  - Tu devras importer une font depuis Google Fonts et l'utiliser sur ta page
+  - Tu devras importer une font depuis  **Google Fonts ** et l'utiliser sur ta page
   
 3) Refère-toi à la capture d'écran ci-dessous pour créer ta page (Conseil : utilise Bootstrap pour t'aider à construire tes éléments) <br/>  <br/> 
   ![screencapture-127-0-0-1-5500-index-html-2022-09-07-15_52_59](https://user-images.githubusercontent.com/77976552/192245733-ff4b7ad6-e9d8-47a1-9de7-891396749ef5.png)
@@ -36,7 +36,7 @@ Certaines contraintes sont à respecter :
  - Colle le code dans ton fichier index.html là où tu veux afficher ta vidéo
  - Tu peux modifier les valeurs width et height de ton igframe pour coller avec ton conteneur
 
-4) Crée un bouton Dark mode dans la Navbar
+4) Crée un bouton  **Dark mode ** dans la Navbar
   - Construis le CSS et le JS pour basculer la page en mode sombre (fond noir de la navbar et du body, textes et titres et logos en blanc) au clic sur le bouton
   - Ajoute une nouvelle section en bas de page, avec un textarea et un bouton, et une div vide. Nous allons voir comment ajouter des vidéos de manière dynamique en JavaScript en utilisant le localStorage
     
