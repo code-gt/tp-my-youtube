@@ -11,7 +11,7 @@ Certaines contraintes sont à respecter :
   - Pour tester ton style essaye de mettre le h1 en rouge.
   - Tu devras importer une font depuis Google Fonts et l'utiliser sur ta page
   
-3) Refère-toi à la capture d'écran ci-dessous pour créer ta page (Conseil : utilise Bootstrap pour t'aider à construire tes éléments)
+3) Refère-toi à la capture d'écran ci-dessous pour créer ta page (Conseil : utilise Bootstrap pour t'aider à construire tes éléments)  
   ![screencapture-127-0-0-1-5500-index-html-2022-09-07-15_52_59](https://user-images.githubusercontent.com/77976552/192245733-ff4b7ad6-e9d8-47a1-9de7-891396749ef5.png)
   
   - Construis ta page de haut en bas, première étape la NAVBAR : Logo / Barre de recherche avec bouton / image user 
@@ -25,7 +25,7 @@ Certaines contraintes sont à respecter :
   
   - Utilise le CSS (Grid Bootstrap ou FlexBox au choix) pour créer ta galerie de vidéos
 
-  - N'oublie de faire un footer, avec textes et logo
+  - N'oublie de faire un footer, avec textes et logo  
   
 RECUPERATION DES VIDEOS YOUTUBE (balise <iframe>) :
  - Rends-toi sur https://www.youtube.com/ 
