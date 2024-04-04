@@ -1,4 +1,4 @@
-# tp-my-youtube
+# TP my YouTube
 
 Consignes : 
 L'objectif de cet exercice est de créer ton propre YouTube, tu es libre de construire ton site comme tu l'entends.
