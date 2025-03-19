@@ -41,5 +41,5 @@ Certaines contraintes sont à respecter :
   - Crée un fichier **main.js**
   - Construis le CSS et le JS pour basculer la page en mode sombre (fond noir de la navbar et du body, textes et titres et logos en blanc) au clic sur le bouton
   
-5) Ajoute une nouvelle section en bas de page, avec un textarea et un bouton, et une div vide. Nous allons voir comment ajouter des vidéos de manière dynamique en JavaScript en utilisant le localStorage
+5) Ajoute une dernière rangée qui contiendra une `div` vide de class `video-play` et une autre `div` contenant un `textarea` et un `button`. Nous allons voir comment ajouter des vidéos de manière dynamique en JavaScript en utilisant le **localStorage**
     
