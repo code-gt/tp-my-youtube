@@ -28,19 +28,18 @@
    ```javascript
    let isClicked = false; // Cette variable va nous permettre de définir l'état du bouton 'Dark'
    ```
-4. Créer les variables qui vont récupérer vos différents éléments HTML à modifier (titres, body, image, logo, bouton etc) soit avec `getElementById` si vos éléments HTML ont un id, soit `querySelector` (ou `querySelectorAll` si vous voulez changer plusieurs éléments HTML d'un même type, par exemple toutes vos balises <h2>)
+4. Créer les variables qui vont récupérer vos différents éléments HTML à modifier (titres, body, image, logo, bouton etc) soit avec `getElementById` si vos éléments HTML ont un id, soit `querySelector` ou `querySelectorAll` si vous voulez changer plusieurs éléments HTML d'un même type, par exemple toutes vos balises <h2>
 
 5. Faire un addEventListener sur le bouton 'Dark' :
    ```js
    boutonDark.addEventListener('click', function() {
     if (isClicked == false) {
         isClicked = true;
-        // on modifie l'aspect de tous nos éléments HTML avec les méthodes classList.add() et/ou classList.replace() ... pour activer le mode sombre et utiliser les classes de Bootstrap nécessaires (text-white, text-dark, bg-dark, bg-white)
+        // on modifie l'aspect de tous nos éléments HTML
     } else {
         isClicked = false;
-        // on repasse tous nos éléments HTML à l'état initial avec classList.remove(), classList.replace() pour revenir au mode light
+        // on repasse tous nos éléments HTML à l'état initial
     }
-});
 ```
 
 Aide:
