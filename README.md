@@ -2,6 +2,7 @@
 
 Consignes : 
 L'objectif de cet exercice est de créer ton propre YouTube, tu es libre de construire ton site comme tu l'entends.
+
 Certaines contraintes sont à respecter :
 
 1) Crée un **index.html** et commence à écrire du code
@@ -23,7 +24,7 @@ Certaines contraintes sont à respecter :
       - Mes vidéos drôles
       - Ma chaîne Youtube
   
-  - Utilise le CSS (**Grid Bootstrap** ou **FlexBox** au choix) pour créer ta galerie de vidéos
+  - Utilise la **Grid Bootstrap** pour créer ta galerie de vidéos
 
   - N'oublie de faire un footer, avec textes et logo  
   
@@ -31,13 +32,14 @@ Certaines contraintes sont à respecter :
  - Rends-toi sur https://www.youtube.com/ 
  - Va sur la vidéo que tu souhaites importer
  - Clique sur partager (sous la vidéo)
- - Clique sur "intégrer <>"
- - Sélectionne et copie le code <iframe>...</iframe>
+ - Clique sur "intégrer"
+ - Sélectionne et copie le code `<iframe>...</iframe>`
  - Colle le code dans ton fichier index.html là où tu veux afficher ta vidéo
- - Tu peux modifier les valeurs width et height de ton igframe pour coller avec ton conteneur
+ - Tu peux modifier les valeurs width et height de ton iframe pour coller avec ton conteneur
 
 4) Crée un bouton **Dark mode** dans la Navbar
   - Crée un fichier **main.js**
   - Construis le CSS et le JS pour basculer la page en mode sombre (fond noir de la navbar et du body, textes et titres et logos en blanc) au clic sur le bouton
-  - Ajoute une nouvelle section en bas de page, avec un textarea et un bouton, et une div vide. Nous allons voir comment ajouter des vidéos de manière dynamique en JavaScript en utilisant le localStorage
+  
+5) Ajoute une nouvelle section en bas de page, avec un textarea et un bouton, et une div vide. Nous allons voir comment ajouter des vidéos de manière dynamique en JavaScript en utilisant le localStorage
     
